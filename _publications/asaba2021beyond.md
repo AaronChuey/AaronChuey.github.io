@@ -1,13 +1,13 @@
 ---
-title: "The privileged status of knowing mechanistic information: an early epistemic bias"
+title: "Beyond knowledge versus belief: The contents of mental-state representations and their underlying computations"
 collection: publications
 category: manuscripts
-permalink: /publication/lockhart2019the
+permalink: /publication/asaba2021beyond
 #excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2019-01-01
-venue: 'Child Development'
+date: 2021-01-01
+venue: 'Behavioral and Brain Sciences'
 #slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://academic.oup.com/chidev/article/90/5/1772/8257400'
+paperurl: 'https://www.proquest.com/openview/dd7c1d9195d7e7e213d78076182af843/1?pq-origsite=gscholar&cbl=47829'
 #bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
-citation: 'Lockhart, K. L., Chuey, A., Kerr, S., & Keil, F. C. (2019). The privileged status of knowing mechanistic information: An early epistemic bias. Child development, 90(5), 1772-1788.'
+citation: 'Asaba, M., Chuey, A., Gweon, H. (2021). Beyond knowledge versus belief: The contents of mental-state representations and their underlying computations. Behavioral and Brain Sciences, 44.'
 ---
