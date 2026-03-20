@@ -4,10 +4,10 @@ collection: publications
 category: manuscripts
 permalink: /publication/chuey2026young
 #excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2026-03-01
+date: 2026-03-20
 venue: 'Proceedings of the National Academy of Sciences'
 #slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://files.osf.io/v1/resources/5x3q2_v1/providers/osfstorage/688a6b1b791c99c9c96742cf?action=download&direct&version=1'
+paperurl: 'https://www.pnas.org/doi/10.1073/pnas.2525150123'
 #bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
-citation: 'Chuey, A., Jara-Ettinger, J., & Gweon, H. (2026). Young children understand how social connections affect what people know about each other. Proceedings of the National Academy of Sciences.'
+citation: 'Chuey, A., Jara-Ettinger, J., & Gweon, H. (2026). Young children understand how social connections affect what people know about each other. Proceedings of the National Academy of Sciences. 123.12, e2525150123'
 ---
