@@ -9,5 +9,5 @@ venue: 'psyarxiv'
 #slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://files.osf.io/v1/resources/hvm7r_v1/providers/osfstorage/688a69c7b337174d26256bd9?action=download&direct&version=1'
 #bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
-citation: 'Chuey A., Sparks, R., Gweon, H. (in press @ Cognition). Young children’s understanding of communication as causal influence.'
+citation: 'Chuey, A., Sparks, R. Z., & Gweon, H. (2026). Young children can infer what speakers know based on their causal influence over listeners. Cognition, 278, 106726.
 ---
