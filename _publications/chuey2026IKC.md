@@ -9,5 +9,5 @@ venue: 'Cognition'
 #slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S0010027726002957'
 #bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
-citation: 'Chuey, A., Sparks, R. Z., & Gweon, H. (2026). Young children can infer what speakers know based on their causal influence over listeners. Cognition, 278, 106726.
+citation: 'Chuey, A., Sparks, R. Z., & Gweon, H. (2026). Young children can infer what speakers know based on their causal influence over listeners. Cognition, 278, 106726.'
 ---
